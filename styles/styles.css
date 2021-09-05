@@ -3,4 +3,13 @@ footer .glyphicon {
     margin-bottom: 20px;
     color: #f4511e;
   }
-  
+  h1 {
+    font-family: cursive; 
+        font-size: 40px; 
+        text-align: center;  
+        color: #ff0000;
+  }
+  div id="home"{
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #f4511e;
